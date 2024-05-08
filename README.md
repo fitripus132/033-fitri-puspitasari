@@ -1,7 +1,7 @@
 # 033-fitri-puspitasari
 JDA Fase 2
 
-Nama      : Fitri Puspitasari\n
+Nama      : Fitri Puspitasari
 Judul     : GOTogether
 Deskripsi : Situs jejaring sederhana yang menjadi wadah tracing target kelompok. User dapat 'bertemu' dengan user lain yang memiliki target yang sama dalam bentuk grup, yang kemudian dapat saling melihat progres/capaian sesama user sebagai motivasi atau monitoring.
 Fitur : 
